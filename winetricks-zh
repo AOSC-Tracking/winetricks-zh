@@ -8,6 +8,9 @@
 # (This doesn't change often, use the sha256sum of the file when reporting problems)
 WINETRICKS_VERSION=20240105-next
 
+# Disable version check
+WINETRICKS_LATEST_VERSION_CHECK='disabled'
+
 # This is a UTF-8 file
 # You should see an o with two dots over it here [ö]
 # You should see a micro (u with a tail) here [µ]
